@@ -11,6 +11,4 @@ This project is made to storage all Arduino projects using diferents LED feature
 
 ## Authors
 
-* **Ignacio Rubio** - *Initial work* - [IgnacioRubio](https://github.com/IgnacioRubio)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Ignacio Rubio** - *Initial work* - [IgnacioRubio](https://github.com/IgnacioRubio
