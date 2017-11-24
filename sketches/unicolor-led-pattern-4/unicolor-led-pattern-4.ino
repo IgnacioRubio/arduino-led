@@ -1,3 +1,10 @@
+/*
+ * Program Name: Unicolor LED Pattern 4
+ * Author: Ignacio Rubio 
+ * Date: 16 November 2017
+ * Description: Controls four LEDs lighting cyclon pattern.
+ */
+
 const int k_numLEDs = 4;
 const int kPinLeds[k_numLEDs] = {2, 3, 4, 5};
 

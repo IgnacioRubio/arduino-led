@@ -1,3 +1,10 @@
+/*
+ * Program Name: Unicolor LED Button
+ * Author: Ignacio Rubio 
+ * Date: 20 November 2017
+ * Description: Turns ON/OFF a LED using a button as a controller.
+ */
+
 const int kPinButton1 = 2;
 const int kPinLed = 9;
 
