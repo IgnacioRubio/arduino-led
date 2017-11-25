@@ -5,6 +5,7 @@
  * Date: 24 November 2017
  * Description: Blinks a LED using a potenciometer.
  */
+ 
 const int kPinPot = A0;
 const int kPinLed = 9;
 
